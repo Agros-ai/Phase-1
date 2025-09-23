@@ -1,0 +1,6 @@
+Crop,SoilType,Stage,ETc_mm_day,IrrigationInterval_days,Note
+Paddy,Red Sandy,Vegetative,5.5,3,Maintain shallow ponding 2-3 cm
+Paddy,Loamy,Reproductive,6.0,2,Ensure panicle initiation moisture
+Cotton,Loamy,Flowering,5.0,6,Avoid waterlogging
+Wheat,Alluvial,Crown Root Initiation,3.5,10,Critical irrigation at CRI
+Groundnut,Black Cotton,Pegging,4.0,5,Maintain light moisture
