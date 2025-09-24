@@ -40,10 +40,6 @@ Agros is an AI-powered precision agriculture platform that empowers farmers with
 - **Federated learning** for privacy-preserving farmer data usage  
 - **Gamification & incentives** for adoption  
 
----
-
-## 📜 License  
-This project is licensed under the **MIT License**.  
 
 ---
 
